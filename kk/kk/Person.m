@@ -49,7 +49,7 @@
 }
 -(void)text
 {
-    
+    NSLog(@"file");
     [self.keyArray addObject:@"1"];
     [self.keyArray addObject:@2];
     self.sleepBlock (@"一只大狗熊").sleepBlock(@"一只大花猫");
